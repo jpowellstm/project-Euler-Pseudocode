@@ -18,14 +18,3 @@ define function 'compute' with no inputs
 call the function 'compute' and print it     
 ```
 
-## Solution
-```
-def compute():
-    ans = 0
-    for i in range(100, 1000)
-        for j in range(100, 1000)
-            if str(i * j) == str(i * j)[ : : -1]) and i*j > ans:
-                ans = i*j
-	
-     return ans
-```
