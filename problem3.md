@@ -20,4 +20,6 @@ define function 'compute' with no inputs
         let 'p' = smallest_prime_factor('n')
 	if 'p' is less than 'n' replace 'n' by 'n' divided by 'p'
 	else return 'n'
+	
+Call the function compute and print it
 ```
